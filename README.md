@@ -8,7 +8,7 @@ clone is only the frontend of flipkart , so at backend you can use custom url-sl
 https://user-images.githubusercontent.com/97378645/184501015-4640c4bb-d3b3-426d-8aca-b4b031da97c2.mp4
 
 <!--screenshots of clone  -->
-![flipkartclone1](https://user-images.githubusercontent.com/97378645/184501315-a2b71a2a-2c81-4fff-a14f-37df5a41a165.png)
+![flipkartclone1](https://user-images.githubusercontent.com/97378645/184501645-07ae28c4-cf8a-4bc2-9d79-c8baad1b45d4.png)
 ![flipkartclone2](https://user-images.githubusercontent.com/97378645/184501560-3507b380-b0d0-4875-8e87-684da9cba3fe.PNG)
 ![flipkartclone3](https://user-images.githubusercontent.com/97378645/184501340-277e5462-9093-43ef-9f1b-1af04678f935.PNG)
 ![flipkartclone4](https://user-images.githubusercontent.com/97378645/184501345-8d366e87-7848-44ba-bb6b-7b337fda1007.PNG)
