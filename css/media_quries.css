@@ -1,0 +1,372 @@
+@media screen and (max-width:1480px) {
+    .slider {
+        display: none;
+    }
+    header,
+    footer,
+    .topstories,
+    .load {
+        width: 137.5vw;
+        justify-content: space-evenly;
+    }
+    .container {
+        width: 141.5vw;
+        justify-content: space-evenly;
+    }
+    .slot {
+        width: 135vw;
+    }
+    .footerbox1 {
+        justify-content: space-evenly;
+    }
+    .end {
+        justify-content: space-evenly;
+    }
+    .view-more-responsive {
+        display: inline-block;
+        margin: 20vh 0 5px 68vw;
+        border: 2px snow;
+        border-style: ridge;
+        box-shadow: 14px 26px 13px -2px rgb(0 0 0 / 16%)
+    }
+}
+
+@media screen and (max-width:1100px) {
+    .slider {
+        display: none;
+    }
+    header,
+    footer,
+    .topstories,
+    .load {
+        width: 172.5vw;
+        justify-content: space-around;
+    }
+    .container {
+        width: 179.5vw;
+    }
+    .slot {
+        width: 169vw;
+    }
+    #credit-card-logo-onresponse {
+        width: 380px;
+    }
+    .view-more-responsive {
+        display: inline-block;
+        margin: 20vh 0 5px 80vw;
+        border: 2px snow;
+        border-style: ridge;
+        box-shadow: 14px 26px 13px -2px rgb(0 0 0 / 16%)
+    }
+}
+
+@media screen and (max-width:850px) {
+    .load,
+    header,
+    footer,
+    .topstories {
+        width: 231vw;
+    }
+    .container {
+        width: 239vw;
+    }
+    .slot {
+        width: 226vw;
+    }
+    .view-more-responsive {
+        margin-left: 107vw;
+    }
+}
+
+@media screen and (max-width:630px) {
+    header,
+    footer,
+    .topstories,
+    .container {
+        width: 136vw;
+    }
+    .load {
+        width: 136vw;
+    }
+    .slot {
+        width: 132vw;
+    }
+    .logo {
+        display: flex;
+        user-select: none;
+        position: relative;
+        top: -0.563rem;
+        margin-left: -1.875rem;
+    }
+    .logo img {
+        width: 3.75rem;
+        margin-top: 7px;
+    }
+    .expplus {
+        font-size: 0.6rem;
+        color: white;
+        margin: 0.4rem 0 0 0.4rem;
+    }
+    .plus {
+        width: 1.188rem;
+        margin-top: -0.4rem;
+    }
+    .plusimage {
+        height: 0.7rem;
+        margin-left: 0px;
+    }
+    header nav ul {
+        display: none !important;
+    }
+    .searchbar {
+        display: flex;
+        align-items: center;
+        width: 75vw;
+        height: 1rem;
+        font-size: 12px;
+        margin-left: 38px;
+    }
+    .searchicon,
+    .btn1,
+    .btn2 {
+        display: none;
+    }
+    .list {
+        display: inline-block;
+        margin-left: 5.5vw;
+    }
+    .container {
+        box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+        background-color: rgb(255, 255, 255);
+        width: 136vw;
+        display: flex;
+        flex-flow: wrap;
+        margin-left: 0px;
+        margin-top: 2px;
+        height: auto;
+    }
+    .product1 {
+        cursor: pointer;
+        font-family: 'Ibarra Real Nova', serif;
+        font-size: 8px;
+        margin-left: 30px;
+        width: auto;
+        justify-content: center;
+    }
+    .product1 select {
+        font-size: 8px;
+        display: block;
+    }
+    #forimage1 {
+        height: 2rem;
+        width: 2rem;
+    }
+    .cart {
+        display: none;
+    }
+    #cart-txt {
+        display: none;
+    }
+    .btn {
+        margin-left: 20px;
+        font-size: 8px;
+    }
+    .btn:hover {
+        font-size: 10px;
+    }
+    .slider {
+        display: none !important;
+    }
+    .response {
+        display: none !important;
+    }
+    #forimage {
+        width: 83px;
+        height: 97px;
+    }
+    .view-more-responsive {
+        display: inline-block;
+        margin: 20vh 0 0 60vw;
+        border: 2px snow;
+        border-style: ridge;
+        box-shadow: 14px 26px 13px -2px rgb(0 0 0 / 16%)
+    }
+    .footerbox1 {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        font-size: 8px;
+        height: 87vh;
+    }
+    .fdesc {
+        margin-top: -12px;
+    }
+    .on-response {
+        border: none;
+        position: relative;
+        left: 6vw;
+        top: 13vh;
+    }
+    .footerinfo {
+        font-size: 8px;
+        margin: 17px 0 0 57px;
+        height: 23vh;
+    }
+    .end {
+        font-size: 8px;
+        flex-wrap: wrap;
+        height: 36vh;
+        justify-content: center;
+        align-items: center;
+    }
+    #credit-card-logo-onresponse {
+        width: 80vw;
+    }
+    .icon {
+        margin-left: 1rem;
+    }
+    .copyright-onresponse {
+        font-size: 14px;
+    }
+    .items {
+        margin: 0 30px;
+    }
+}
+
+@media screen and (max-width:450px) {
+    .load,
+    header,
+    footer,
+    .container,
+    .topstories {
+        width: 155.5vw;
+    }
+    .slot {
+        width: 151vw;
+        height: 132vh;
+    }
+    .view-more-responsive {
+        margin: 0 0 0px 63vw;
+    }
+    .logo {
+        margin-left: -3.875rem;
+    }
+    .searchbar {
+        width: 83vw;
+        margin-left: 20px;
+    }
+    .list {
+        margin-left: 12.5vw;
+    }
+    .on-response {
+        border: none;
+        position: relative;
+        left: 6vw;
+    }
+}
+
+@media screen and (max-width:376px) {
+    .load,
+    header,
+    footer,
+    .container,
+    .topstories {
+        width: 161.5vw;
+    }
+    .footerinfo {
+        margin: 17px 0 0 30px;
+    }
+    .on-response {
+        border: none;
+        position: relative;
+        left: 6vw;
+    }
+}
+
+@media screen and (max-width:290px) {
+    .load,
+    footer,
+    .container,
+    .topstories {
+        width: 174vw;
+    }
+    header {
+        width: 174vw;
+        height: 28vh;
+    }
+    header nav {
+        display: block;
+    }
+    .logo {
+        margin-left: -0.875rem;
+    }
+    .searchbar {
+        margin-top: 8px;
+        margin-left: -1px;
+    }
+    .btn {
+        position: relative;
+        top: -8vw;
+        right: -77vw;
+    }
+    .slot {
+        width: 166vw;
+    }
+    .list {
+        display: none;
+    }
+    .dropdown-onresponse {
+        display: block;
+        margin: -15px 107px;
+    }
+    .on-response {
+        border: none;
+        position: relative;
+        left: 6vw;
+    }
+    .footerbox1 {
+        height: 86vh;
+    }
+    .footerinfo {
+        margin: 10px 0px 0 13px;
+    }
+    .end {
+        height: 33vh;
+    }
+}
+
+@media screen and (min-width:2000px) {
+    .load {
+        width: 114.5vw;
+    }
+    header {
+        justify-content: space-evenly;
+        width: 114.5vw;
+    }
+    .container {
+        width: 117vw;
+        justify-content: space-evenly;
+    }
+    .slider {
+        display: none;
+    }
+    .slot {
+        margin: 4vw 2vw;
+        width: 108vw;
+    }
+    .topstories {
+        width: 114.5vw;
+    }
+    .end {
+        justify-content: space-evenly;
+    }
+    footer {
+        width: 114.5vw;
+    }
+    .footerbox1 {
+        justify-content: space-evenly;
+    }
+    .view-more-responsive {
+        margin: 0 52vw;
+    }
+}
