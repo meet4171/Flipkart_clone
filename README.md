@@ -3,7 +3,7 @@ his is a clone of flipkart ( e-commerce website ) , i have made it using html an
 
 i tried to make website SEO friendy by using some of HTMl meta tag( keyword , author, desc..) , images/icons used are compressed and code is optimized.
 clone is only the frontend of flipkart , so at backend you can use custom url-slug for SEO and user-friendly website. 
-*** The clone is not responsive right now , but i will update it and make it responsive in future ***
+*** The clone is responsive ***
 
 
 https://user-images.githubusercontent.com/97378645/184501015-4640c4bb-d3b3-426d-8aca-b4b031da97c2.mp4
